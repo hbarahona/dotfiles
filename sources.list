@@ -1,0 +1,6 @@
+deb http://deb.debian.org/debian/ sid main contrib non-free 
+# deb-src http://deb.debian.org/debian/ sid non-free contrib main 
+# deb [arch=amd64] https://download.docker.com/linux/debian/ buster edge 
+# deb-src [arch=amd64] https://download.docker.com/linux/debian/ sid stable edge 
+
+
